@@ -7,11 +7,9 @@ It avoids complexity, servers, accounts, and telemetry — favoring explicit tru
 
 ## Features
 - Offline-first: works without internet or servers.
-- Multi-tenant support: isolated chats for different groups.
-- Simple login using short secrets or invites.
-- End-to-end encryption per chat (optional with Fernet).
+- Simple login using short secrets.
 - Read receipts and timestamps.
-- Minimal dependencies: only Python + Streamlit + cryptography.
+- Minimal dependencies: only Python + Streamlit.
 
 ## Philosophy
 DME embraces simplicity over cleverness.  

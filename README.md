@@ -1,7 +1,7 @@
 # DME — Dumbest Messenger Ever
 
 Dumbest Messenger Ever is a deliberately simple, local-first, offline-friendly messenger built during internet blackouts.
-It avoids complexity, servers, accounts, and telemetry — favoring explicit trust and simplicity over features.
+It avoids complexity, servers, accounts, and telemetry, favoring explicit trust and simplicity over features.
 
 > "Sometimes the internet is gone, but people still need to talk."
 

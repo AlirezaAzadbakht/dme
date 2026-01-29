@@ -26,4 +26,4 @@ It is not perfect. It is not fancy. It is intentionally **the dumbest messenger 
 git clone https://github.com/AlirezaAzadbakht/dme.git
 cd dme
 pip install -r requirements.txt
-streamlit run app.py
+streamlit run main.py

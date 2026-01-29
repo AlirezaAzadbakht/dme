@@ -1,9 +1,15 @@
+"""
+DME - Dumbest Messenger Ever
+
+This code prefers simplicity over cleverness.
+If something looks naive, it probably is — on purpose.
+"""
+
 import os
 import json
 import time
 from datetime import datetime
 from zoneinfo import ZoneInfo
-
 import streamlit as st
 from dotenv import load_dotenv
 

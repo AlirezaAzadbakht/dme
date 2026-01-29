@@ -29,7 +29,7 @@ def time_now():
     return datetime.now(TEHRAN_TZ)
 
 if IS_RTL:
-    st.set_page_config(page_title="Alice & Bob", initial_sidebar_state="expanded")
+    st.set_page_config(page_title="DME - Dumbest Messenger Ever", initial_sidebar_state="expanded")
 
 if "api_key" not in st.session_state:
     st.session_state['api_key'] = None
